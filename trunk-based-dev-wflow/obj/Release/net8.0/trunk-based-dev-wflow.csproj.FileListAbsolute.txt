@@ -1,0 +1,15 @@
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\bin\Release\net8.0\trunk-based-dev-wflow.exe
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\bin\Release\net8.0\trunk-based-dev-wflow.deps.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\bin\Release\net8.0\trunk-based-dev-wflow.runtimeconfig.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\bin\Release\net8.0\trunk-based-dev-wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\bin\Release\net8.0\trunk-based-dev-wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\trunk-based-dev-wflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\trunk-based-dev-wflow.AssemblyInfoInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\trunk-based-dev-wflow.AssemblyInfo.cs
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\trunk-based-dev-wflow.csproj.CoreCompileInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\trunk-based-dev-wflow.sourcelink.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\trunk-based-dev-wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\refint\trunk-based-dev-wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\trunk-based-dev-wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\trunk-based-dev-wflow.genruntimeconfig.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\obj\Release\net8.0\ref\trunk-based-dev-wflow.dll

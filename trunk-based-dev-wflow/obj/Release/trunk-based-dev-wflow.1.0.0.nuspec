@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>trunk-based-dev-wflow</id>
+    <version>1.0.0</version>
+    <authors>trunk-based-dev-wflow</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="27e53d6af7eef2794e9608b1a4a410a5277bfc54" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\bin\Release\net8.0\trunk-based-dev-wflow.runtimeconfig.json" target="lib\net8.0\trunk-based-dev-wflow.runtimeconfig.json" />
+    <file src="D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\trunk-based-dev-wflow\bin\Release\net8.0\trunk-based-dev-wflow.dll" target="lib\net8.0\trunk-based-dev-wflow.dll" />
+  </files>
+</package>

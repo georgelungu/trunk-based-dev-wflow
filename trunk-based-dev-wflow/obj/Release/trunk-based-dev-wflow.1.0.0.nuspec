@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>trunk-based-dev-wflow</authors>
     <description>Package Description</description>
-    <repository type="git" commit="27e53d6af7eef2794e9608b1a4a410a5277bfc54" />
+    <repository type="git" commit="cafd46f5e3f5f743776b1a305f36f6fa4e1502b1" />
     <dependencies>
       <group targetFramework="net8.0" />
     </dependencies>

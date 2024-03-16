@@ -1,0 +1,15 @@
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\bin\Release\net8.0\test-console.exe
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\bin\Release\net8.0\test-console.deps.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\bin\Release\net8.0\test-console.runtimeconfig.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\bin\Release\net8.0\test-console.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\bin\Release\net8.0\test-console.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\test-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\test-console.AssemblyInfoInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\test-console.AssemblyInfo.cs
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\test-console.csproj.CoreCompileInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\test-console.sourcelink.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\test-console.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\refint\test-console.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\test-console.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\test-console.genruntimeconfig.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\obj\Release\net8.0\ref\test-console.dll

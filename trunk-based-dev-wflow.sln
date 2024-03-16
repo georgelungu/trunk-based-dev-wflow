@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trunk-based-dev-wflow", "trunk-based-dev-wflow\trunk-based-dev-wflow.csproj", "{84E0D8F5-4432-4FA8-919D-D743AC904F0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-console", "test-console\test-console.csproj", "{C8764A46-0734-4835-827B-9661B8C93512}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{84E0D8F5-4432-4FA8-919D-D743AC904F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84E0D8F5-4432-4FA8-919D-D743AC904F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84E0D8F5-4432-4FA8-919D-D743AC904F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8764A46-0734-4835-827B-9661B8C93512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8764A46-0734-4835-827B-9661B8C93512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8764A46-0734-4835-827B-9661B8C93512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8764A46-0734-4835-827B-9661B8C93512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

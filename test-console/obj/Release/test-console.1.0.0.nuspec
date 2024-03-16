@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>test-console</id>
+    <version>1.0.0</version>
+    <authors>test-console</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="cafd46f5e3f5f743776b1a305f36f6fa4e1502b1" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\bin\Release\net8.0\test-console.runtimeconfig.json" target="lib\net8.0\test-console.runtimeconfig.json" />
+    <file src="D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\trunk-based-dev-wflow\test-console\bin\Release\net8.0\test-console.dll" target="lib\net8.0\test-console.dll" />
+  </files>
+</package>
